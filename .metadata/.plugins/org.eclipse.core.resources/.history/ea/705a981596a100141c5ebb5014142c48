@@ -1,0 +1,10 @@
+package com.cj.tra;
+
+public class Test {
+	public static void main(String...args){
+		String s="hello";
+		int z=s.length();
+		System.out.println(z);
+	}
+
+}
